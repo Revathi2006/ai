@@ -4,3 +4,8 @@ __pycache__/
 
 # Env files
 .env
+
+# FAISS index files
+INSUREBOT/backend/kb/faiss_index/
+*.faiss
+*.index
